@@ -62,8 +62,10 @@ MIT License
 ---
 📬 Contact
 For any queries or contributions, feel free to reach out:
+
 📧 Email: bandimeghana315@gmail.com
 🐙 GitHub:https://github.com/meghana315
+
 
 ⭐ If you found this useful, give it a star on GitHub! 🌟
 This version provides clarity, instructions, troubleshooting, and structured documentation for your project. Let me know if you want any modifications! 🚀
